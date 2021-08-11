@@ -1,0 +1,10 @@
+# Title: ad-remove
+# Purpose: List of ad servers
+# Last modified: 11.8.2021
+# Version: 11.8.2021-a
+# Author: jpeant
+
+#[adnxs]
+0.0.0.0 fra1-ib.adnxs-simple.com
+0.0.0.0 ams1-ib.adnxs-simple.com
+0.0.0.0 adnxs-simple.com
